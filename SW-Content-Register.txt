@@ -1,0 +1,12 @@
+NXP Software Content Register
+
+Name: RDDRONE-T1ADAPT
+Version: 1.0
+Outgoing License: BSD-3-Clause
+License File: LICENCES/APACHE-LICENSE-2.0.txt , COPYING-BSD-3
+Description: This is v1.0 release for T1 Eth Adapt Media Convertor.
+Release location: https://github.com/NXPHoverGames/RDDRONE-T1ADAPT.git
+Origin: NXP (BSD-3-Clause)
+        CMSIS (Apache-2.0) - https://www.arm.com/cmsis 
+        CMSIS Version : v3.01
+
